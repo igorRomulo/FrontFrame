@@ -1,0 +1,7 @@
+#-----------------------------#
+# Gitignore by Gulp/Grunt     #
+#-----------------------------#
+
+node_modules
+package-lock.json
+gulpfile.js.save
